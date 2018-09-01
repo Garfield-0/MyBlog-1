@@ -82,4 +82,6 @@ npm unstall xxx #卸载插件
 
 # TIPS:
 1.使用yilia主题，加了下面标签才有MORE
+```
 <!--more--> //在需要阶段的地方插入该代码语句
+```
